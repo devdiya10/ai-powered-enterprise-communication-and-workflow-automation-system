@@ -1,6 +1,6 @@
 # 📧 AI-Powered Enterprise Communication and Workflow Automation System
 
-A Python-based Email Automation and Reminder System designed to simplify communication workflows through contact management, personalized email generation, simulated email delivery, reminder scheduling, and activity tracking.
+A AI-Python-based Email Automation and Reminder System designed to simplify communication workflows through contact management, personalized email generation, simulated email delivery, reminder scheduling, and activity tracking.
 
 ## 🚀 Project Overview
 
